@@ -25,8 +25,8 @@ First-party plugins needed for Tailwind UI:
 ### Getting Started
 
 ```sh
-npx degit web2033/vite-vue3-tailwind-starter vvt-app
-cd vvt-app
+npx degit caparicio-esd/vite-vue-vuex-tailwind-ts-template vue-template
+cd vue-template
 ```
 
 ```sh
